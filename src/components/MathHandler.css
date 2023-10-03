@@ -1,0 +1,73 @@
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  
+  .control_label label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  
+  .control_input input {
+    font: inherit;
+    font-weight:900;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.65);
+  }
+  
+  .control_actions {
+    text-align: right;
+    font-weight:900;
+    
+  }
+  .text {
+    font-size: 15vh;
+    font-weight:900;
+  }
+  .btn button {
+    
+    margin: 35px;
+    font: inherit;
+    font-weight:900;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.45);
+    background: linear-gradient(to bottom, rgb(92, 139, 233),rgb(6, 93, 255));
+    color: white;
+    border-radius: 12px;
+    border: none;
+
+  }
+  .start button {
+    margin: 35px;
+    font: inherit;
+    font-weight:900;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.45);
+    background: linear-gradient(to bottom, rgb(92, 139, 233),rgb(6, 93, 255));
+    color: white;
+    border-radius: 12px;
+    border: none;
+
+  }
+  .square{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(255, 220, 220);
+    opacity: 1;
+  }
+  
