@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/matheletes/static/css/main.f6035d69.css",
+    "main.js": "/matheletes/static/js/main.9c58aad5.js",
+    "static/js/787.825a35f9.chunk.js": "/matheletes/static/js/787.825a35f9.chunk.js",
+    "index.html": "/matheletes/index.html",
+    "static/media/logo.svg": "/matheletes/static/media/logo.0540335b52b146b4c8130264b7025576.svg",
+    "main.f6035d69.css.map": "/matheletes/static/css/main.f6035d69.css.map",
+    "main.9c58aad5.js.map": "/matheletes/static/js/main.9c58aad5.js.map",
+    "787.825a35f9.chunk.js.map": "/matheletes/static/js/787.825a35f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6035d69.css",
+    "static/js/main.9c58aad5.js"
+  ]
+}
